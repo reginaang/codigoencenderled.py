@@ -7,4 +7,4 @@ while True:
     led.on()   # Enciende el LED
     time.sleep(5)  # Espera 1 segundo
     led.off()  # Apaga el LED
-    time.sleep(1)  # Espera 1 segundo
+    time.sleep(5)  # Espera 1 segundo
